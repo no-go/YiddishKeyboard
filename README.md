@@ -31,7 +31,7 @@ The google play store collect non-personal information such as the data of insta
 If you have any questions or concerns about my Privacy Policy or data processing, please contact me.
 
 
-## License - My Android Code
+## License
 
 This is free and unencumbered software released into the public domain.
 
