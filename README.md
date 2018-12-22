@@ -1,5 +1,7 @@
 # Yiddish Keyboard (free like beer)
 
+**Normalization Form KD (Compatibility Decomposition)**
+
 New yiddish has some more letters than hebrew. Some other open source keyboards (dec 2018)
 did not have these letters. Some non payment `le goog` store app have it ... but not FOSS.
 The original `le goog` android has a yiddish layout, but linage OS not.
