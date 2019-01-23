@@ -8,9 +8,8 @@ The original `le goog` android has a yiddish layout, but linage OS not.
 
 You can get a signed APK from here (Android 4.1+): [APK](https://raw.githubusercontent.com/no-go/YiddishKeyboard/master/app/release/click.dummer.yidkey.apk)
 
-[<img src="https://f-droid.org/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/click.dummer.yidkey/)
+<a href="https://f-droid.org/packages/click.dummer.yidkey/" target="_blank">
+<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80"/></a>
 
 ## Screenshot
 
